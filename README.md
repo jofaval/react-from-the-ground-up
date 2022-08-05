@@ -4,8 +4,24 @@ React From Zero to Hero or From the Ground Up
 
 ## Contents
 
+1. [Introduction](#introduction)
+    1. [React](#react)
 1. [Lessons](#lessons)
 1. [Examples](#examples)
+
+## Introduction
+[⬆ Back to the contents](#contents)
+
+JavaScript is an EDD (Event-Driven Development) language with a functional paradigm and prototype chaining.
+
+TypeScript is the typed, and thus safer, version of JavaScript. Is it recomended? Yes, maybe as a beginner it may be hard, but it sure will be worth it on the long run.
+
+### React
+[⬆ Back to the contents](#contents)
+
+React nurtures from the events, this is something to have in mind while trying to understand React, and probably other JS frameworks.
+
+Created by Meta (previously Facebook), [https://github.com/facebook/react](https://github.com/facebook/react).
 
 ## Lessons
 [⬆ Back to the contents](#contents)
