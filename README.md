@@ -40,6 +40,15 @@ You can also check the lessons content at the [`/lesssons`](./lessons/) folder.
     1. [Life Cycle](./lessons/1.-Beginner/2.-life-cycle/)
     1. [React Hooks](./lessons/1.-Beginner/3.-hooks/)
     1. [Classes](./lessons/1.-Beginner/4.-classes/)
+1. [Libraries](./.-Libraries/)
+    1. [Enzyme](./.-enzyme/)
+    1. [Prettier](./.-prettier/)
+    1. [React Error Boundary](./.-react-error-boundary/)
+    1. [React Intl](./.-react-intl/)
+    1. [React Redux](./.-react-redux/)
+    1. [React Router](./.-react-router/)
+    1. [React Saga](./.-react-saga/)
+    1. [Styled Components](./.-styled-components/)
 
 ## Examples
 [⬆ Back to the contents](#contents)
