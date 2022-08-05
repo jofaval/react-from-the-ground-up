@@ -1,0 +1,3 @@
+const myTotallyUnmutableAndSafeObject = {
+  safeParam: "secretKey",
+};
