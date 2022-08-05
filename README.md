@@ -46,6 +46,7 @@ You can also check the lessons content at the [`/lesssons`](./lessons/) folder.
     1. [Prettier](./lessons/.-prettier/)
     1. [React Error Boundary](./lessons/.-react-error-boundary/)
     1. [React Intl](./lessons/.-react-intl/)
+    1. [React Query](./lessons/.-react-query/)
     1. [React Redux](./lessons/.-react-redux/)
     1. [React Router](./lessons/.-react-router/)
     1. [React Saga](./lessons/.-react-saga/)
