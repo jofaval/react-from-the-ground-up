@@ -1,5 +1,9 @@
 # Lessons #
 
+As an extra lesson, I like to use Github Actions for some minor deployments, as it's integrated and free for public repositories.
+
+1. [Github Actions Deployments](./.-github-actions/)
+
 ## Modules
 
 1. [Fundamentals](./0.-Fundamentals/)
