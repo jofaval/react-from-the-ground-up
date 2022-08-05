@@ -6,3 +6,4 @@
     1. [Pure functions](./0.-Fundamentals/1.-pure-functions/)
     1. [Memoization](./0.-Fundamentals/2.-memoization/)
     1. [Promises](./0.-Fundamentals/3.-promises/)
+    1. [TypeScript](./0.-Fundamentals/4.-typescript/)
