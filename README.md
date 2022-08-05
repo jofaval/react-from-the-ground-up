@@ -18,6 +18,7 @@ You can also check the lessons content at the [`/lesssons`](./lessons/) folder.
     1. [Promises](./lessons/0.-Fundamentals/3.-promises/)
     1. [TypeScript](./lessons/0.-Fundamentals/4.-typescript/)
     1. [Closures](./lessons/0.-Fundamentals/5.-closures/)
+    1. [HOCs](./lessons/0.-Fundamentals/6.-hoc/)
 1. [Beginner](./lessons/1.-Beginner/)
     1. [Components](./lessons/1.-Beginner/1.-components/)
     1. [Life Cycle](./lessons/1.-Beginner/2.-life-cycle/)

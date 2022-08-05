@@ -7,3 +7,4 @@
 1. [Promises](./3.-promises/)
 1. [TypeScript](./4.-typescript/)
 1. [Closure](./5.-closures/)
+1. [HOCs](./6.-hoc/)
