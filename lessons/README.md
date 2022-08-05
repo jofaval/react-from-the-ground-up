@@ -7,6 +7,8 @@
     1. [Memoization](./0.-Fundamentals/2.-memoization/)
     1. [Promises](./0.-Fundamentals/3.-promises/)
     1. [TypeScript](./0.-Fundamentals/4.-typescript/)
+    1. [Closures](./0.-Fundamentals/5.-closures/)
+    1. [HOCs](./0.-Fundamentals/6.-hoc/)
 1. [Beginner](./1.-Beginner/)
     1. [Components](./1.-Beginner/1.-components/)
     1. [Life Cycle](./1.-Beginner/2.-life-cycle/)
