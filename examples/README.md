@@ -11,4 +11,4 @@
 
 ## Ideas
 
-- To-Do list, check out an old example I did at [react-todo-list](https://github.com/jofaval/reat-todo-list).
+- To-Do list, check out an old example I did at [react-todo-list](https://github.com/jofaval/react-todo-list).
