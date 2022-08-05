@@ -14,6 +14,7 @@ As an extra lesson, I like to use Github Actions for some minor deployments, as 
     1. [Closures](./0.-Fundamentals/5.-closures/)
     1. [HOCs](./0.-Fundamentals/6.-hoc/)
 1. [Beginner](./1.-Beginner/)
+    1. [JSX](./0.-jsx/)
     1. [Components](./1.-Beginner/1.-components/)
     1. [Life Cycle](./1.-Beginner/2.-life-cycle/)
     1. [React Hooks](./1.-Beginner/3.-hooks/)
