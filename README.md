@@ -53,6 +53,7 @@ You can also check the lessons content at the [`/lesssons`](./lessons/) folder.
     1. [Styled Components](./lessons/.-styled-components/)
 1. [Frameworks](./lessons/.-Frameworks/)
     1. [Astro](./lessons/.-astro/)
+    1. [Docusaurus](./lessons/.-Frameworks/.-docusaurus)
     1. [Gatsby](./lessons/.-gatsby/)
     1. [NextJS](./lessons/.-next.js/)
     1. [React Native](./lessons/.-react-native/)
