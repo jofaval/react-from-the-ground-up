@@ -9,12 +9,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Added
 
 - Fundings option, just for funs. I don't even know how to use it yet!
+- Added a ton of lessons, just the base.
+- Added the base for assestments.
+- Added extensions lessons module.
 
 ## 2022-08-05
 
 ### Added
 
-- Some base lessons, not the content, just some of th structure
+- Some base lessons, not the content, just some of the structure
 
 ### Achieved
 
