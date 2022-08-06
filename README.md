@@ -29,7 +29,8 @@ Contrary to many other (JS) frameworks out there, React doesn't provide the solu
 
 You can also check the lessons content at the [`/lesssons`](./lessons/) folder.
 
-1. [Fundamentals](./lessons/0.-Fundamentals/)
+It's categorized to my own like, perspectives, opinions and experience. And it's not necessarily, intermediate do this and that, or this is harder or easier, it's just, maybe, how I would have liked to actually learn react if I were to start all over again.
+
     1. [Pure functions](./lessons/0.-Fundamentals/1.-pure-functions/)
     1. [Memoization](./lessons/0.-Fundamentals/2.-memoization/)
     1. [Promises](./lessons/0.-Fundamentals/3.-promises/)
@@ -44,7 +45,8 @@ You can also check the lessons content at the [`/lesssons`](./lessons/) folder.
     1. [Classes](./lessons/1.-Beginner/4.-classes/)
 1. [Intemediate](./lessons/2.-Intemediate/)
     1. [Context API](./lessons/2.-Intemediate/.-context/)
-1. [Libraries](./lessons/.-Libraries/)
+0. [Advanced](./lessons/3.-Advanced/)
+    1. [React Hooks](./lessons/3.-Advanced/.-hooks/)
     1. [Enzyme](./lessons/.-Libraries/.-enzyme/)
     1. [Prettier](./lessons/.-Libraries/.-prettier/)
     1. [React Error Boundary](./lessons/.-Libraries/.-react-error-boundary/)
