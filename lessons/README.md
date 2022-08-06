@@ -19,6 +19,8 @@ As an extra lesson, I like to use Github Actions for some minor deployments, as 
     1. [Life Cycle](./1.-Beginner/2.-life-cycle/)
     1. [React Hooks](./1.-Beginner/3.-hooks/)
     1. [Classes](./1.-Beginner/4.-classes/)
+1. [Intemediate](./2.-Intemediate/)
+    1. [Context API](./2.-Intemediate/.-context/)
 1. [Libraries](./.-Libraries/)
     1. [Enzyme](./.-enzyme/)
     1. [Prettier](./.-prettier/)

@@ -41,6 +41,8 @@ You can also check the lessons content at the [`/lesssons`](./lessons/) folder.
     1. [Life Cycle](./lessons/1.-Beginner/2.-life-cycle/)
     1. [React Hooks](./lessons/1.-Beginner/3.-hooks/)
     1. [Classes](./lessons/1.-Beginner/4.-classes/)
+1. [Intemediate](./lessons/2.-Intemediate/)
+    1. [Context API](./lessons/2.-Intemediate/.-context/)
 1. [Libraries](./lessons/.-Libraries/)
     1. [Enzyme](./lessons/.-enzyme/)
     1. [Prettier](./lessons/.-prettier/)
