@@ -50,6 +50,7 @@ It's categorized to my own like, perspectives, opinions and experience. And it's
     1. [React Hooks](./lessons/2.-Intemediate/.-hooks/)
 0. [Advanced](./lessons/3.-Advanced/)
     1. [React Hooks](./lessons/3.-Advanced/.-hooks/)
+    1. [Structure](./lessons/3.-Advanced/.-structure/)
 0. [Libraries](./lessons/.-Libraries/)
     1. [Enzyme](./lessons/.-Libraries/.-enzyme/)
     1. [Prettier](./lessons/.-Libraries/.-prettier/)

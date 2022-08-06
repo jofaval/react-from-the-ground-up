@@ -24,6 +24,7 @@ As an extra lesson, I like to use Github Actions for some minor deployments, as 
     1. [React Hooks](./2.-Intemediate/.-hooks/)
 0. [Advanced](./3.-Advanced/)
     1. [React Hooks](./3.-Advanced/.-hooks/)
+    1. [Structure](./3.-Advanced/.-structure/)
 0. [Libraries](./.-Libraries/)
     1. [Enzyme](./.-Libraries/.-enzyme/)
     1. [Prettier](./.-Libraries/.-prettier/)
