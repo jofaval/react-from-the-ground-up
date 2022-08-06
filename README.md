@@ -20,8 +20,9 @@ TypeScript is the typed, and thus safer, version of JavaScript. Is it recomended
 [⬆ Back to the contents](#contents)
 
 React nurtures from the events, this is something to have in mind while trying to understand React, and probably other JS frameworks.
-
 Created by Meta (previously Facebook), [https://github.com/facebook/react](https://github.com/facebook/react).
+
+Contrary to many other (JS) frameworks out there, React doesn't provide the solutions, rather, it gives you the tools to find the solution that better fits your needs/requirements. But it is true that React is just a library, a really powerful library, but not a framework.
 
 ## Lessons
 [⬆ Back to the contents](#contents)
