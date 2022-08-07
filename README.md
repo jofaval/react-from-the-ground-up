@@ -7,7 +7,7 @@ React From Zero to Hero or From the Ground Up
 1. [Introduction](#introduction)
     1. [React](#react)
 1. [Lessons](#lessons)
-1. [Assestments](#assestments)
+1. [Assessments](#assessments)
 1. [Examples](#examples)
 
 ## Introduction
@@ -73,12 +73,12 @@ It's categorized to my own like, perspectives, opinions and experience. And it's
     1. [Redwood](./lessons/.-Frameworks/.-redwood.js/)
     1. [Remix](./lessons/.-Frameworks/.-remix.js/)
 
-## Assestments
+## Assessments
 [⬆ Back to the contents](#contents)
 
-You can find some assestments at [`/assestments`](./assestments/).
+You can find some assessments at [`/assessments`](./assessments/).
 
-1. [Todo List](./assesments/todo-list/)
+1. [Todo List](./assessments/todo-list/)
 
 ## Examples
 [⬆ Back to the contents](#contents)

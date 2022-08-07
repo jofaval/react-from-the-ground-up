@@ -10,7 +10,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 - Fundings option, just for funs. I don't even know how to use it yet!
 - Added a ton of lessons, just the base.
-- Added the base for assestments.
+- Added the base for assessments.
 - Added extensions lessons module.
 
 ## 2022-08-05
