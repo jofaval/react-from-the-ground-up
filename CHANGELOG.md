@@ -4,6 +4,17 @@ All the log of changes on the project/repository
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2022-08-09
+
+### Added
+
+- Base concurrent lesson
+- Intermediate hooks index
+
+### Fixed
+
+- Changed the intermediate/hooks title
+
 ## 2022-08-06
 
 ### Added
