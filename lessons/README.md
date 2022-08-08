@@ -25,6 +25,7 @@ As an extra lesson, I like to use Github Actions for some minor deployments, as 
 0. [Advanced](./3.-Advanced/)
     1. [React Hooks](./3.-Advanced/.-hooks/)
     1. [Structure](./3.-Advanced/.-structure/)
+    1. [Concurrent](./3.-Advanced/.-concurrent/)
 0. [Extensions](./-Extensions/)
     1. [React Dev Tools](./.-Extensions/react-dev-tools/)
     1. [Redux Dev Tools](./.-Extensions/redux-dev-tools/)

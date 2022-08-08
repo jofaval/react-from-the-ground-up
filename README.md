@@ -51,6 +51,7 @@ It's categorized to my own like, perspectives, opinions and experience. And it's
 0. [Advanced](./lessons/3.-Advanced/)
     1. [React Hooks](./lessons/3.-Advanced/.-hooks/)
     1. [Structure](./lessons/3.-Advanced/.-structure/)
+    1. [Concurrent](./lessons/3.-Advanced/.-concurrent/)
 0. [Extensions](./lessons/.-Extensions/)
     1. [React Dev Tools](./lessons/.-Extensions/react-dev-tools/)
     1. [Redux Dev Tools](./lessons/.-Extensions/redux-dev-tools/)
