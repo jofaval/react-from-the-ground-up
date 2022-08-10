@@ -48,6 +48,8 @@ It's categorized to my own like, perspectives, opinions and experience. And it's
 0. [Intemediate](./lessons/2.-Intemediate/)
     1. [Context API](./lessons/2.-Intemediate/.-context/)
     1. [React Hooks](./lessons/2.-Intemediate/.-hooks/)
+    1. [HOCs](./lessons/2.-Intemediate/.-hocs/)
+    1. [Suspense](./lessons/2.-Intemediate/.-suspense/)
 0. [Advanced](./lessons/3.-Advanced/)
     1. [React Hooks](./lessons/3.-Advanced/.-hooks/)
     1. [Structure](./lessons/3.-Advanced/.-structure/)

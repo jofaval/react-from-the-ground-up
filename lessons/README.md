@@ -22,6 +22,8 @@ As an extra lesson, I like to use Github Actions for some minor deployments, as 
 0. [Intemediate](./2.-Intemediate/)
     1. [Context API](./2.-Intemediate/.-context/)
     1. [React Hooks](./2.-Intemediate/.-hooks/)
+    1. [HOCs](./2.-Intemediate/.-hocs/)
+    1. [Suspense](./2.-Intemediate/.-suspense/)
 0. [Advanced](./3.-Advanced/)
     1. [React Hooks](./3.-Advanced/.-hooks/)
     1. [Structure](./3.-Advanced/.-structure/)
