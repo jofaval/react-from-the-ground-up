@@ -4,6 +4,12 @@ All the log of changes on the project/repository
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2022-08-10
+
+### Added
+
+- Add base suspense and error boundary lessons
+
 ## 2022-08-09
 
 ### Added
