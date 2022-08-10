@@ -45,6 +45,7 @@ It's categorized to my own like, perspectives, opinions and experience. And it's
     1. [Life Cycle](./lessons/1.-Beginner/2.-life-cycle/)
     1. [React Hooks](./lessons/1.-Beginner/3.-hooks/)
     1. [Classes](./lessons/1.-Beginner/4.-classes/)
+    1. [Error Boundary](./lessons/1.-Beginner/5.-error-boundary/)
 0. [Intemediate](./lessons/2.-Intemediate/)
     1. [Context API](./lessons/2.-Intemediate/.-context/)
     1. [React Hooks](./lessons/2.-Intemediate/.-hooks/)

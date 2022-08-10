@@ -7,3 +7,4 @@
 1. [Life Cycle](./2.-life-cycle/)
 1. [Hooks](./3.-hooks/)
 1. [Classes](./4.-classes/)
+1. [Error Boundary](./5.-error-boundary/)
