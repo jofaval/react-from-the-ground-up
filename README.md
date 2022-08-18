@@ -25,6 +25,12 @@ Created by Meta (previously Facebook), [https://github.com/facebook/react](https
 
 Contrary to many other (JS) frameworks out there, React doesn't provide the solutions, rather, it gives you the tools to find the solution that better fits your needs/requirements. But it is true that React is just a library, a really powerful library, but not a framework.
 
+## Slides
+
+I've also decided to include slides for those visual learners. And because they may be easier to maintain, or more visually appealing at least.
+
+All the slidewse are at it's respective folder at [`/slides`](./slides/).
+
 ## Lessons
 [⬆ Back to the contents](#contents)
 
