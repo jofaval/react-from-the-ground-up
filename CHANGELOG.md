@@ -4,6 +4,13 @@ All the log of changes on the project/repository
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2022-08-18
+
+### Added
+
+- Installed slidev package for slides with markdown
+- Defined the base slides structure
+
 ## 2022-08-11
 
 ### Added

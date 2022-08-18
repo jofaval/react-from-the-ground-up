@@ -2,5 +2,10 @@
   "dependencies": {
     "@slidev/cli": "^0.35.5",
     "@slidev/theme-default": "^0.21.2"
+  },
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
   }
 }
