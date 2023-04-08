@@ -1,8 +1,14 @@
-# CHANGELOG #
+# CHANGELOG
 
 All the log of changes on the project/repository
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
+
+## 2023-04-08
+
+### Added
+
+- Good input example
 
 ## 2022-08-18
 

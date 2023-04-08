@@ -1,4 +1,4 @@
-# Examples #
+# Examples
 
 ## Contents
 
@@ -8,6 +8,7 @@
 ## Current Examples
 
 1. [Hello World](./hello-world/)
+1. [Good input](./good-input/)
 
 ## Ideas
 
