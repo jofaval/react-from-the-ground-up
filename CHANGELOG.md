@@ -4,6 +4,12 @@ All the log of changes on the project/repository
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2023-08-08
+
+### Added
+
+- Compound components example
+
 ## 2023-04-08
 
 ### Added
