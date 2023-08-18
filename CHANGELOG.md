@@ -4,6 +4,12 @@ All the log of changes on the project/repository
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2023-08-18
+
+### Modified
+
+- Improved typing and compound component examples
+
 ## 2023-08-08
 
 ### Added

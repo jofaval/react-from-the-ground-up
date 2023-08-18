@@ -21,7 +21,8 @@ type ParentProps = PropsWithChildren<{
 }>;
 
 type ParentType = FC<ParentProps> & {
-  NestedChild: FC;
+  // NestedChild: FC;
+  NestedChild: typeof NestedChild; // safer option
 };
 
 const Parent: ParentType = ({ children, subCode }) => {
@@ -45,54 +46,58 @@ const Parent: ParentType = ({ children, subCode }) => {
 };
 Parent.NestedChild = NestedChild;
 
-type CompoundParentProps = PropsWithChildren<{
-  code: string;
+type CompoundParentProps<TCode extends string> = PropsWithChildren<{
+  code: TCode;
 }>;
 
-const CompoundParent: FC<CompoundParentProps> & {
-  Parent: ParentType;
-} = ({ code, children }) => {
+const CompoundParent = <TCode extends string>({
+  code,
+  children,
+}: CompoundParentProps<TCode>) => {
   return <Provider value={{ code }}>{children}</Provider>;
 };
-CompoundParent.Parent = Parent;
+
+const Group = Object.assign(CompoundParent, {
+  Parent,
+});
 
 function App() {
   return (
     <div className="app">
-      <CompoundParent code="first">
-        <CompoundParent.Parent subCode="top">
-          <CompoundParent.Parent.NestedChild />
-          <CompoundParent.Parent.NestedChild />
-        </CompoundParent.Parent>
-        <CompoundParent.Parent subCode="bottom">
-          <CompoundParent.Parent.NestedChild />
-          <CompoundParent.Parent.NestedChild />
-        </CompoundParent.Parent>
-      </CompoundParent>
+      <Group code="first">
+        <Group.Parent subCode="top">
+          <Group.Parent.NestedChild />
+          <Group.Parent.NestedChild />
+        </Group.Parent>
+        <Group.Parent subCode="bottom">
+          <Group.Parent.NestedChild />
+          <Group.Parent.NestedChild />
+        </Group.Parent>
+      </Group>
 
-      <CompoundParent code="second">
-        <CompoundParent.Parent subCode="top">
-          <CompoundParent.Parent.NestedChild />
-          <CompoundParent.Parent.NestedChild />
-        </CompoundParent.Parent>
-        <CompoundParent.Parent subCode="bottom">
-          <CompoundParent.Parent.NestedChild />
-          <CompoundParent.Parent.NestedChild />
-        </CompoundParent.Parent>
-      </CompoundParent>
+      <Group code="second">
+        <Group.Parent subCode="top">
+          <Group.Parent.NestedChild />
+          <Group.Parent.NestedChild />
+        </Group.Parent>
+        <Group.Parent subCode="bottom">
+          <Group.Parent.NestedChild />
+          <Group.Parent.NestedChild />
+        </Group.Parent>
+      </Group>
 
       {/* ERROR, no parent nor compound parent */}
-      <CompoundParent.Parent.NestedChild />
+      <Group.Parent.NestedChild />
 
       {/* ERROR, no compound parent */}
-      <CompoundParent.Parent subCode="willThrowError">
-        <CompoundParent.Parent.NestedChild />
-      </CompoundParent.Parent>
+      <Group.Parent subCode="willThrowError">
+        <Group.Parent.NestedChild />
+      </Group.Parent>
 
       {/* ERROR, no parent */}
-      <CompoundParent code="willAlsoFail">
-        <CompoundParent.Parent.NestedChild />
-      </CompoundParent>
+      <Group code="willAlsoFail">
+        <Group.Parent.NestedChild />
+      </Group>
     </div>
   );
 }
