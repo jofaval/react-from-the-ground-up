@@ -4,6 +4,12 @@ All the log of changes on the project/repository
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2023-09-30
+
+### Added
+
+- Exposing ref and performant on change (inner state outer change)
+
 ## 2023-09-29
 
 ### Added
